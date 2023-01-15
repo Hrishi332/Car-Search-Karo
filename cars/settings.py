@@ -31,7 +31,8 @@ DEBUG = True
 
 
 ALLOWED_HOSTS = [
-                '*'
+                '*',
+                'carsearchkaro.azurewebsites.net',
                 ]
 
 
